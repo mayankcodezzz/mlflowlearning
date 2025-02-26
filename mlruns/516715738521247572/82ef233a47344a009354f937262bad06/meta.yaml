@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516715738521247572/82ef233a47344a009354f937262bad06/artifacts
+end_time: 1740546882707
+entry_point_name: ''
+experiment_id: '516715738521247572'
+lifecycle_stage: active
+run_id: 82ef233a47344a009354f937262bad06
+run_name: defiant-fowl-710
+run_uuid: 82ef233a47344a009354f937262bad06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740546882173
+status: 3
+tags: []
+user_id: MAYANK

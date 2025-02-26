@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516715738521247572/2de75c69537443d7a2fddb4b1138e7ad/artifacts
+end_time: 1740549843191
+entry_point_name: ''
+experiment_id: '516715738521247572'
+lifecycle_stage: active
+run_id: 2de75c69537443d7a2fddb4b1138e7ad
+run_name: zealous-quail-223
+run_uuid: 2de75c69537443d7a2fddb4b1138e7ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740549833045
+status: 3
+tags: []
+user_id: MAYANK

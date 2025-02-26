@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/99b6197617f84eecb31f4c9e538894ed/artifacts
+end_time: 1740546721415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99b6197617f84eecb31f4c9e538894ed
+run_name: efficient-worm-897
+run_uuid: 99b6197617f84eecb31f4c9e538894ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740546720562
+status: 3
+tags: []
+user_id: MAYANK

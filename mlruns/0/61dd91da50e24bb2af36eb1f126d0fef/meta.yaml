@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/61dd91da50e24bb2af36eb1f126d0fef/artifacts
+end_time: 1740545355249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61dd91da50e24bb2af36eb1f126d0fef
+run_name: upset-wolf-688
+run_uuid: 61dd91da50e24bb2af36eb1f126d0fef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740545355165
+status: 3
+tags: []
+user_id: MAYANK

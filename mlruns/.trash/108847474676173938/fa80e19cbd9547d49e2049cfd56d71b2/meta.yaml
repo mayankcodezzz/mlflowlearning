@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/mlflowlearning/mlruns/108847474676173938/fa80e19cbd9547d49e2049cfd56d71b2/artifacts
+deleted_time: 1740546410216
+end_time: 1740545295679
+entry_point_name: ''
+experiment_id: '108847474676173938'
+lifecycle_stage: deleted
+run_id: fa80e19cbd9547d49e2049cfd56d71b2
+run_name: intrigued-cat-802
+run_uuid: fa80e19cbd9547d49e2049cfd56d71b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740545295571
+status: 3
+tags: []
+user_id: MAYANK
